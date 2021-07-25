@@ -1,9 +1,9 @@
-### Hi there 👋
-### Hello, i'm Lucas
+### Olá, eu sou Lucas 👋😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-de-assis/)
 
-Atualmente Desenvolvedor Back-End na Loja do Mecânico.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+🕋 Atualmente Desenvolvedor Back-End na Loja do Mecânico.
 
 Java, NodeJs, Angular. 
 SQL Server, PostgreSQL, Firebird, MongoDB.
