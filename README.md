@@ -5,7 +5,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Franca.<br>
 🔧 Atualmente Desenvolvedor Back-End na Loja do Mecânico.
 
-💼 Skills:
+## 💼 Skills:
 Java, NodeJs, Angular, SQL Server, PostgreSQL, Firebird, MongoDB.
 
 ![](https://komarev.com/ghpvc/?username=lucasfernandoassiswebdev)
