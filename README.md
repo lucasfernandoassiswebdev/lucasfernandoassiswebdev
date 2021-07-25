@@ -36,8 +36,8 @@
 
 #### Sistemas operacionais:
 <div style="display: inline-block">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasfernandoassiswebdev&show_icons=true&theme=radical)](https://github.com/lucasfernandoassiswebdev/github-readme-stats&show_icons=true&theme=radical)
