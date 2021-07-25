@@ -2,11 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-de-assis/)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Franca.<br>
 🔧 Atualmente Desenvolvedor Back-End na Loja do Mecânico.
 
-Java, NodeJs, Angular. 
-SQL Server, PostgreSQL, Firebird, MongoDB.
+💼 Skills:
+Java, NodeJs, Angular, SQL Server, PostgreSQL, Firebird, MongoDB.
 
 ![](https://komarev.com/ghpvc/?username=lucasfernandoassiswebdev)
 
