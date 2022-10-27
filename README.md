@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-de-assis/)
 
 🎓 Técnologo em Análise e Desenvolvimento de Sistemas(Fatec Franca).<br>
-🔧 Atualmente Desenvolvedor Back-End Pleno(Java/Node/SQL Server/ Postgres) na ![Loja do Mecânico](https://www.lojadomecanico.com.br/).
+🔧 Atualmente Desenvolvedor Back-End Pleno(Java/Node/SQL Server/ Postgres) na [Loja do Mecânico](https://www.lojadomecanico.com.br/).
 
 ## 💼 Skills:
 #### Linguagens:
